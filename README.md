@@ -1,10 +1,11 @@
 # Hey 👋, I'm Sandhika!  
 
-https://www.linkedin.com/in/sandhika-jayaraman-a61476385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appge](https://img.shields.io/badge/-Sandhika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)  
-[![Twitter Badge](https://img.shields.io/badge/-Sandhika-black?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/YOUR-TWITTER-ID)](https://twitter.com/YOUR-TWITTER-ID)  
-[![Gmail Badge](https://img.shields.io/badge/-Sandhika-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YOUR-EMAIL)](mailto:YOUR-EMAIL)  
+[![LinkedIn Badge](https://img.shields.io/badge/-Sandhika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandhika-jayaraman-a61476385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/sandhika-jayaraman-a61476385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
----
+[![X Badge](https://img.shields.io/badge/-Sandhika-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/Sandhika23?t=M5WuLymj_WOqSRwDhxWZDg&s=08)](https://x.com/Sandhika23?t=M5WuLymj_WOqSRwDhxWZDg&s=08)  
+
+[![Gmail Badge](https://img.shields.io/badge/-Sandhika-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandhikajeyaraman18@gmail.com)](mailto:sandhikajeyaraman18@gmail.com)  
+
 
 ## About Me 🚀  
 💻 **Blockchain & Web Developer** – Built an **NFT Marketplace** from scratch, exploring decentralized apps and smart contracts.  
