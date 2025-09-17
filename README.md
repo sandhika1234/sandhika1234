@@ -1,10 +1,9 @@
 # Hey 👋, I'm Sandhika!  
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Sandhika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandhika-jayaraman-a61476385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/sandhika-jayaraman-a61476385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandhika-jayaraman-a61476385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![X Badge](https://img.shields.io/badge/-X-black?style=flat&logo=X&logoColor=white)](https://x.com/Sandhika23?t=M5WuLymj_WOqSRwDhxWZDg&s=08)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sandhikajeyaraman18@gmail.com)
 
-[![X Badge](https://img.shields.io/badge/-Sandhika-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/Sandhika23?t=M5WuLymj_WOqSRwDhxWZDg&s=08)](https://x.com/Sandhika23?t=M5WuLymj_WOqSRwDhxWZDg&s=08)  
-
-[![Gmail Badge](https://img.shields.io/badge/-Sandhika-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandhikajeyaraman18@gmail.com)](mailto:sandhikajeyaraman18@gmail.com)  
 
 
 ## About Me 🚀  
